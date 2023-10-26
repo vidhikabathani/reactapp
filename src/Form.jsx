@@ -35,7 +35,7 @@ function Form() {
     }
     return (
         <div>
-            <Container className='pt-5'>
+            <Container>
                 <div className='mb-5 mt-5 pt-5 outline-dark'>
                     {
                         Form == "Login" ?

@@ -1,12 +1,10 @@
 import './App.css';
-import Test from './Test';
-import User from './Form';
-import Form from './Form';
+import Header from './Header';
 
 function App() {
   return (
     <div className="App">
-      <Form/>
+      <Header/>
     </div>
   );
 }
